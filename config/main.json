@@ -1,0 +1,14 @@
+{
+  "port": 3001,
+  "mongodb": "mongodb://localhost:27017/myrepu",
+  "mysql": {
+    "connectionLimit": 10,
+    "database": "personal",
+    "host": "localhost",
+    "user": "dennis11owen24",
+    "password": "orson5welles6",
+    "connectTimeout": 600000,
+    "acquireTimeout": 600000,
+    "timeout": 600000
+  },
+}
